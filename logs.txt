@@ -1,2 +1,0 @@
-LOGIN SUCCESS - admin - 45.33.32.1
-FILE ACCESS - malware.exe
