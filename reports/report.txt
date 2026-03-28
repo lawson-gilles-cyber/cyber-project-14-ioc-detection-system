@@ -1,1 +1,7 @@
+IOC DETECTION REPORT
 
+Detected:
+- Malicious IP
+- Suspicious file
+
+Severity: HIGH
